@@ -1,0 +1,4 @@
+Food,250
+Transport,120
+Shopping,540
+Internet,300
